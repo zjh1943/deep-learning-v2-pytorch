@@ -1,1 +1,8 @@
 .ipynb_checkpoints
+autoencoder/convolutional-autoencoder/data/
+autoencoder/linear-autoencoder/data/
+convolutional-neural-networks/mnist-mlp/data/
+intro-to-pytorch/__pycache__/
+weight-initialization/__pycache__/
+weight-initialization/data/
+
