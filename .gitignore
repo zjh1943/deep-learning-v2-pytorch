@@ -5,4 +5,5 @@ convolutional-neural-networks/mnist-mlp/data/
 intro-to-pytorch/__pycache__/
 weight-initialization/__pycache__/
 weight-initialization/data/
-
+.DS_Store
+__pycache__
